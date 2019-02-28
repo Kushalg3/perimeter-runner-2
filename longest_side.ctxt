@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=longest_side
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ longest_side\ here.\r\n\ Define\ the\ longest\ side\ of\ a\ shape.\r\n\ @version\ (12/02/2019)\r\n
+comment1.params=
+comment1.target=longest_side()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ longest_side\r\n
+comment2.params=otherPt
+comment2.target=void\ side_length(longest_side)
+comment3.params=
+comment3.target=int\ getx()
+comment4.params=
+comment4.target=int\ gety()
+comment5.params=
+comment5.target=void\ compare()
+comment6.params=
+comment6.target=void\ lastPt()
+comment7.params=
+comment7.target=void\ store()
+comment8.params=
+comment8.target=void\ display()
+comment9.params=argc
+comment9.target=void\ main(java.lang.String[])
+comment9.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=10
